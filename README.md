@@ -1,3 +1,3 @@
 # TSLA Stock Prediction
 
-[](TSLA_Linear_Model/Cepeda_TSLAProject.html)
+[url](TSLA_Linear_Model/Cepeda_TSLAProject.html)
